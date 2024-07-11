@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/ac148e6e-bdac-45c9-88c6-10368f03d58f)
 # CmpDeepDive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
